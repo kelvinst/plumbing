@@ -1,6 +1,6 @@
 defmodule Plumbing do
   @moduledoc """
-  Plumbing has some useful function to work with elixir pipes.
+  Useful functions to work with pipes.
 
   Check the list of functions below.
   """
