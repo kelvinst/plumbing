@@ -9,6 +9,7 @@ defmodule Plumbing.MixProject do
       description: "Useful functions to work with pipes.",
       package: package(),
       start_permanent: Mix.env() == :prod,
+      docs: [main: "Plumbing"],
       deps: deps()
     ]
   end
