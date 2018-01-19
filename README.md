@@ -1,11 +1,12 @@
 # Plumbing
 
-**TODO: Add description**
+Useful functions to work with pipes.
+
+For more details take a look at the [online documentation](http://hexdocs.pm/plumbing).
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `plumbing` to your list of dependencies in `mix.exs`:
+Just add this to your `mix.exs` and you're good to go
 
 ```elixir
 def deps do
@@ -14,8 +15,4 @@ def deps do
   ]
 end
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/plumbing](https://hexdocs.pm/plumbing).
 
