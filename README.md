@@ -1,6 +1,6 @@
 # Plumbing
 
-Useful functions to work with pipes.
+Useful functions to work with Elixir pipes.
 
 For more details take a look at the [online documentation](http://hexdocs.pm/plumbing).
 
