@@ -10,6 +10,7 @@ defmodule Plumbing.MixProject do
       package: package(),
       start_permanent: Mix.env() == :prod,
       docs: [main: "Plumbing"],
+      source_url: "https://github.com/kelvinst/plumbing",
       deps: deps()
     ]
   end
