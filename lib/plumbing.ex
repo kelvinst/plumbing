@@ -40,4 +40,10 @@ defmodule Plumbing do
     function.(subject)
     subject
   end
+
+  defmacro match(subject, to) do
+    quote do
+      unquote(to) = unquote(subject)
+    end
+  end
 end
